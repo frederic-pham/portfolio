@@ -18,7 +18,7 @@
   
   <div class="section" id="about">
     <h2>À propos de moi</h2>
-    <p>Je suis un technicien support passionné par la cybersécurité. Voici mes projets !</p>
+    <p>Je suis un technicien support passionné par la cybersécurité. actuellement en formation cybersécurité. Voici mes projets !</p>
   </div>
 
   <div class="section" id="projects">
